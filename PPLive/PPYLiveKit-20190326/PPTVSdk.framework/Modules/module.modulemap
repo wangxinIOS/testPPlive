@@ -1,6 +1,0 @@
-framework module PPTVSdk {
-  umbrella header "PPTVSdk.h"
-
-  export *
-  module * { export * }
-}
